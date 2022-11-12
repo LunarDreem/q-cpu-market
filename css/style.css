@@ -16,4 +16,13 @@
     height: 77px;
     width: 99.9% ;
     background-color: rgb( 187, 207, 225);
+    position: fixed;
+    display: inline-block;
+}
+.Profile{
+    margin-left:33% ;
+    margin-bottom:5px ;   
+}
+.line{
+    margin-left: 20%;
 }
